@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="puzzle_object:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/puzzle_object_jar</output-path>
+    <root id="archive" name="puzzle_object.jar">
+      <element id="module-output" name="puzzle_object" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jlayer-1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="puzzle_object:jar9">
+    <output-path>$PROJECT_DIR$/out/artifacts/puzzle_object_jar9</output-path>
+    <root id="root">
+      <element id="archive" name="puzzle_object.jar">
+        <element id="module-output" name="puzzle_object" />
+      </element>
+      <element id="library" level="project" name="jlayer-1.0.1" />
+    </root>
+  </artifact>
+</component>
